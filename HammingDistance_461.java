@@ -8,6 +8,6 @@ public class HammingDistance_461 {
 	}
 
 	int hammingDistance(int x, int y) {
-		return Integer.bitCount(x ^ y);
+		return Integer.bitCount(x ^ y);  
 	}
 }
