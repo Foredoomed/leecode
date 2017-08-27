@@ -20,3 +20,6 @@ public class PowerofTwo_231 {
     }
 
 }
+//
+//if(n<=0) return false;
+//return !(n&(n-1));
